@@ -7,6 +7,7 @@ target 'FirebaseApp' do
 
   # Pods for FirebaseApp
 	pod 'Firebase/Core'
+	pod 'Firebase/Messaging'
 
 
 end
